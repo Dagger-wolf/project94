@@ -1,0 +1,22 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+
+}
+
+body{
+
+background: linear-gradient( #ff000d 0%, #dd00ff 50%, #0008ff 100%)
+
+}
+
+#Kwitter_label{
+
+text-shadow: navy;
+text-decoration: orangered;
+text-decoration-color: navy;
+
+
+}
